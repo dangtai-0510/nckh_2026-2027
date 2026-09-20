@@ -34,11 +34,6 @@
 **Tên đề tài:** Xây dựng hệ thống cảnh báo sớm sinh viên có nguy cơ học tập kém bằng trí tuệ nhân tạo
 
 Đề tài xây dựng một hệ thống trí tuệ nhân tạo có khả năng **dự báo sớm** sinh viên có nguy cơ trượt học phần hoặc bị cảnh báo học vụ, dựa trên dữ liệu học tập (điểm số, chuyên cần) và dữ liệu hành vi trên hệ thống quản lý học tập (LMS). Hệ thống hướng tới hỗ trợ giảng viên và cố vấn học tập phát hiện sớm các trường hợp cần can thiệp, qua đó nâng cao tỷ lệ hoàn thành học phần và giảm tỷ lệ thôi học.
-
-Repo này lưu trữ toàn bộ mã nguồn, dữ liệu thực nghiệm, notebook phân tích, và tài liệu nghiên cứu của đề tài — bao gồm cả bản đề cương tối thiểu do giảng viên hướng dẫn (GVHD) cung cấp và các phần mở rộng do nhóm tự phát triển để nâng đề tài lên chuẩn một công trình nghiên cứu khoa học hoàn chỉnh.
-
-> **Lưu ý về phạm vi:** Bản đề cương gốc do GVHD cung cấp được xác định là **mức tối thiểu (~60-70%)**. README này trình bày đầy đủ phạm vi đã mở rộng — bao gồm các phần lõi bắt buộc và các phần nâng cao nhóm chủ động phát triển thêm.
-
 ---
 
 ## 2. Bối cảnh & Tính cấp thiết
